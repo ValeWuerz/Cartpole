@@ -1,9 +1,3 @@
-
-
-
-
-
-
 #include <torch/torch.h>
 #include <iostream>
 #include <vector>
@@ -34,26 +28,29 @@ public:
         q_network(nn::Sequential(
             nn::Linear(nn::LinearOptions(state_size, hidden_size).bias(false)),
             nn::Functional(torch::relu),
-            nn::Linear(nn::LinearOptions(hidden_size, action_size).bias(false))
-        ))
-         
+            nn::Linear(nn::LinearOptions(hidden_size, 128).bias(false)),
+            nn::Functional(torch::relu),
+            nn::Linear(nn::LinearOptions(128, 64).bias(false)),
+            nn::Functional(torch::relu),
+            nn::Linear(nn::LinearOptions(64, action_size).bias(false))
+        ))//, target_network(q_network)
+        
         {
         optimizer = std::make_unique<torch::optim::Adam>(q_network->parameters(), learning_rate);
-        //optimizer = new torch::optim::Adam(q_network->parameters(), learning_rate);
-        //optimizer_(q_network->parameters(), torch::optim::AdamOptions(learning_rate_))
     
        q_network->to(device_);
       //auto target_q_network_ = std::make_shared<torch::nn::Sequential>(*q_network);
     
 }
-    //torch::optim::Adam optimizer;
-    //torch::optim::Optimizer* optimizer;
 //Constructor Ende, Public vars and methods
     //std::unique_ptr<torch::optim::Adam> optimizer;
     int  select_action(torch::Tensor state, float epsilon, CartPoleEnv env);
 
    torch::nn::Sequential getQNetwork(){
         return q_network;
+}
+   torch::nn::Sequential gettargetQNetwork(){
+        return target_network;
 }
     void train(CartPoleEnv& env, int num_episodes, int max_steps, float gamma, float epsilon, int batch_size,
          int replay_memory_size, float epsilon_decay, float epsilon_end, int target_update_frequency_)
@@ -81,21 +78,6 @@ public:
                 // Choose action
                 int action = select_action(state, epsilon, env);
                 //std::cout << "Action: " << action << std::endl;
-            if(action==3){
-
-   for (const auto& experience : replay_memory) {
-    // Extract the individual elements of the tuple
-                auto state_tensor = std::get<0>(experience);
-                auto action = std::get<1>(experience);
-                auto reward = std::get<2>(experience);
-                auto next_state_tensor = std::get<3>(experience);
-                auto done = std::get<4>(experience);
-                std::cout << state_tensor << std::endl;
-
-                    }
-                    std::cout<<"debugging"<<std::endl;
-            }
-     
                 std::vector<float> next_state;
                 float reward;
                 int done;
@@ -147,16 +129,12 @@ public:
                 }
                 // Update target Q-network
                 if (episode_steps % target_update_frequency_ == 0) { 
-                    // torch::nn::Sequential target_q_network_; 
-                    //std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_network);
-                    //target_q_network_ = *q_net_copy;   
-                    //auto target_q_network_ = std::make_shared<torch::nn::Sequential>(*q_network);
-                    //target_q_network_ = nn::clone(q_network_);
-                 
+                    update_target_network();
+                    
                 }
                 //maybe go into eval mode with target_q_network
 
-                // Check if episode is done
+                // Check if episode is done, because thresholds where exceeded
                 if (done==1) {
                     break;
                 }
@@ -210,23 +188,32 @@ public:
     auto done_tensor = torch::from_blob(done_batch.data(), {batch_size, 1}, torch::kInt).to(device_);
 //    auto done_tensor = torch::from_blob(done_batch.data(), {batch_size, 1}, torch::kBool);
     // Compute Q-values for current state-action pairs
-    auto action_tensor_int64 = action_tensor.to(torch::kLong);
+    //auto action_tensor_int64 = action_tensor.to(torch::kLong);
     //select the Q-value for the action taken in the current state, resulting in a tensor of shape (batch_size[50], 1)
-    auto q_values = q_network->forward(state_tensor).gather(1, action_tensor_int64);
+    //auto q_values = q_network->forward(state_tensor).gather(1, action_tensor_int64);
     // Compute target Q-values for next state-action pairs
-    auto next_q_values = torch::zeros_like(q_values);
-
-    next_q_values =std::get<0>(q_network->forward(next_state_tensor).max(1)).detach();
-    torch::Tensor target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
-
+    //auto next_q_values = torch::zeros_like(q_values);
+    //next_q_values =std::get<0>(target_network->forward(next_state_tensor).max(1)).detach();
+    auto q_values = q_network->forward(state_tensor);
+    cout << target_network << endl;
+    auto next_q_values=target_network->forward(next_state_tensor);
+    //bellman equation
+    //torch::Tensor target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
+    auto target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
     // Compute loss and backpropagate
-    auto loss = torch::mse_loss(q_values, target_q_values);
+    //auto loss = torch::mse_loss(q_values, target_q_values);
+    auto loss = torch::mse_loss(q_values.gather(1, action_tensor.unsqueeze(1)).squeeze(1), target_q_values.detach());
     
     optimizer->zero_grad();
     loss.backward();
     optimizer->step();
     
 }
+ void update_target_network() {
+    std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_network);
+
+        target_network=*q_net_copy;
+    }
 void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
     if (epsilon_ > epsilon_end_) {
         epsilon_ *= epsilon_decay_;
@@ -242,6 +229,9 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
         float learning_rate_;
         torch::Device device_;
         torch::nn::Sequential q_network; 
+        std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_network);
+        torch::nn::Sequential target_network=*q_net_copy; 
+         
        //torch::optim::Adam optimizer_;
 
 
@@ -253,7 +243,7 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
     //epsilon is the probability to explore the action space instead of exploit by generating a random value of 0 or 1
     //and comparing it to epsilon, if this is false then we go over to exploitation
     if (torch::rand({1}).item<float>() < epsilon) {
-        // Sample a random index from the action space
+        // Sample a random  from the action space
         std::random_device rd;
         std::mt19937 gen(rd());
         std::uniform_int_distribution<> dist(0, env.get_action_space() - 1);
@@ -263,16 +253,19 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
         action = index;
 
     } else {
+
     Tensor q_values = q_network->forward(state);
     std::cout << "Q_Values:   " << std::endl;
     std::cout << q_values << std::endl;
         float first_value=q_values[0][0].item<float>();
       
         // Select the action with the highest Q-value
-        action = q_values.argmax(1).item<int>();
+      //      cout << q_network ->parameters()[0].grad() << endl;
+          action = q_values.argmax(1).item<int>();
+        
           if(std::isnan(first_value)){
             std::cout << state << std::endl;
-            action=3;
+            
         }
     }
     return action;
@@ -285,7 +278,7 @@ int main(){
     int state_size = env.get_state().size();
     int action_size = env.get_action_space();
     float hidden_size= 16;
-    float learning_rate= 0.01;
+    float learning_rate= 0.0001;
     int num_episodes=500;
     int max_steps=200;
     ////importance of future rewards => closer o 1: agent will consider future rewards more important than immediate rewards 
@@ -301,10 +294,14 @@ int main(){
     float epsilon_end=0.01;
     DQNAgent agent(state_size,action_size,hidden_size,learning_rate);
     
-    torch::nn::Sequential q_net= agent.getQNetwork();
-    torch::nn::Sequential new_q_net; 
-    std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_net);
-
+    torch::nn::Sequential new_q_net= agent.gettargetQNetwork(); 
+    //torch::nn::Sequential q_net= agent.getQNetwork();
+    //std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_net);
+    //new_q_net=*q_net_copy;
+    std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(agent.getQNetwork());
+    
+    new_q_net=*q_net_copy;
+    cout << new_q_net << endl;
       agent.train(env, num_episodes, max_steps, gamma, epsilon, batch_size, replay_memory_size, 
                 epsilon_decay, epsilon_end, target_update_frequency);
 }

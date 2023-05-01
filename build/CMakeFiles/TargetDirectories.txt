@@ -3,3 +3,4 @@
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/slow_build_up.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/deepl_actions.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/randomactions.dir
+/home/valentin/Master_Thesis/Coding/build/CMakeFiles/trying_new.dir

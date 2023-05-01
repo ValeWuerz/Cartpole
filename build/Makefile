@@ -149,6 +149,19 @@ randomactions/fast:
 	$(MAKE) -f CMakeFiles/randomactions.dir/build.make CMakeFiles/randomactions.dir/build
 .PHONY : randomactions/fast
 
+#=============================================================================
+# Target rules for targets named trying_new
+
+# Build rule for target.
+trying_new: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 trying_new
+.PHONY : trying_new
+
+# fast build rule for target.
+trying_new/fast:
+	$(MAKE) -f CMakeFiles/trying_new.dir/build.make CMakeFiles/trying_new.dir/build
+.PHONY : trying_new/fast
+
 deepl_actions.o: deepl_actions.cpp.o
 
 .PHONY : deepl_actions.o
@@ -230,6 +243,33 @@ slow_build_up.cpp.s:
 	$(MAKE) -f CMakeFiles/slow_build_up.dir/build.make CMakeFiles/slow_build_up.dir/slow_build_up.cpp.s
 .PHONY : slow_build_up.cpp.s
 
+trying_new.o: trying_new.cpp.o
+
+.PHONY : trying_new.o
+
+# target to build an object file
+trying_new.cpp.o:
+	$(MAKE) -f CMakeFiles/trying_new.dir/build.make CMakeFiles/trying_new.dir/trying_new.cpp.o
+.PHONY : trying_new.cpp.o
+
+trying_new.i: trying_new.cpp.i
+
+.PHONY : trying_new.i
+
+# target to preprocess a source file
+trying_new.cpp.i:
+	$(MAKE) -f CMakeFiles/trying_new.dir/build.make CMakeFiles/trying_new.dir/trying_new.cpp.i
+.PHONY : trying_new.cpp.i
+
+trying_new.s: trying_new.cpp.s
+
+.PHONY : trying_new.s
+
+# target to generate assembly for a file
+trying_new.cpp.s:
+	$(MAKE) -f CMakeFiles/trying_new.dir/build.make CMakeFiles/trying_new.dir/trying_new.cpp.s
+.PHONY : trying_new.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -241,6 +281,7 @@ help:
 	@echo "... slow_build_up"
 	@echo "... deepl_actions"
 	@echo "... randomactions"
+	@echo "... trying_new"
 	@echo "... deepl_actions.o"
 	@echo "... deepl_actions.i"
 	@echo "... deepl_actions.s"
@@ -250,6 +291,9 @@ help:
 	@echo "... slow_build_up.o"
 	@echo "... slow_build_up.i"
 	@echo "... slow_build_up.s"
+	@echo "... trying_new.o"
+	@echo "... trying_new.i"
+	@echo "... trying_new.s"
 .PHONY : help
 
 

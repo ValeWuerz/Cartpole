@@ -12,3 +12,4 @@ Segmentation fault needs to be adressed => solved
 batch doesnt store experience of state properly => solved
 
 the q_values are nan after some time beeing normal!
+->update_q_network function has a lot of speculation => build knowledge

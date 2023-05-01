@@ -7,12 +7,15 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${TORCH_CXX_FLAGS}")
 add_executable(randomactions randomactions.cpp)
 add_executable(deepl_actions deepl_actions.cpp)
 add_executable(slow_build_up slow_build_up.cpp)
+add_executable(trying_new trying_new.cpp)
 #target_link_libraries(tensor "${TORCH_LIBRARIES}")
 target_link_libraries(randomactions "${TORCH_LIBRARIES}")
 target_link_libraries(deepl_actions "${TORCH_LIBRARIES}")
 target_link_libraries(slow_build_up "${TORCH_LIBRARIES}")
+target_link_libraries(trying_new "${TORCH_LIBRARIES}")
 set_property(TARGET randomactions PROPERTY CXX_STANDARD 14)
 set_property(TARGET deepl_actions PROPERTY CXX_STANDARD 14)
+set_property(TARGET trying_new PROPERTY CXX_STANDARD 14)
 
 # The following code block is suggested to be used on Windows.
 # According to https://github.com/pytorch/pytorch/issues/25457,
