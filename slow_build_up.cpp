@@ -165,8 +165,16 @@ public:
 
         // Get a random index within the range of valid indices
         int random_index = dist(gen);
-        auto experience = replay_memory[random_index];
 
+        auto experience = replay_memory[random_index];
+        torch::Tensor state;
+        torch::Tensor next_state;
+        int action;
+        float reward;
+        int done;
+        torch::Tensor state_;
+        std::tie(state_, action, reward,next_state, done)=experience;
+        cout << state_ << endl;
         //print replay memory
      
 
@@ -194,20 +202,27 @@ public:
     // Compute target Q-values for next state-action pairs
     //auto next_q_values = torch::zeros_like(q_values);
     //next_q_values =std::get<0>(target_network->forward(next_state_tensor).max(1)).detach();
-    auto q_values = q_network->forward(state_tensor);
+    auto action_tensor_int64 = action_tensor.to(torch::kLong);
+    auto q_values = q_network->forward(state_tensor).gather(1,action_tensor_int64);
     cout << target_network << endl;
-    auto next_q_values=target_network->forward(next_state_tensor);
+    auto next_q_values=target_network->forward(next_state_tensor).gather(1,action_tensor_int64);
     //bellman equation
     //torch::Tensor target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
-    auto target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
+    auto target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1).squeeze(1) * (1 - done_tensor);
     // Compute loss and backpropagate
-    //auto loss = torch::mse_loss(q_values, target_q_values);
-    auto loss = torch::mse_loss(q_values.gather(1, action_tensor.unsqueeze(1)).squeeze(1), target_q_values.detach());
+    //detach target_q_values because we only want to update the weights of the q_network in the following backpropagation
+    //warning when q_values and target_q_values are not of same shape
+    auto loss = torch::mse_loss(q_values, target_q_values.detach());
+    cout << q_values.sizes() << endl;
+    cout << target_q_values.sizes() << endl;
+    //auto loss = torch::mse_loss(q_values.gather(1, action_tensor_int64.unsqueeze(1)).squeeze(1), target_q_values.detach());
     
     optimizer->zero_grad();
     loss.backward();
     optimizer->step();
     
+    torch::Tensor gradients_1=q_network->parameters()[0].grad();
+    cout << gradients_1 << endl;
 }
  void update_target_network() {
     std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_network);
