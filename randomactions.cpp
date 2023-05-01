@@ -17,6 +17,16 @@ int main() {
     for (float val : observation_space) {
         cout << val << " ";
     }
+<<<<<<< HEAD
+=======
+    std::cout << std::endl;
+
+    //std::cout << "Action space: ";
+    //for (int val : action_space) {
+    //    std::cout << val << " ";
+    //}
+    //std::cout << std::endl;
+>>>>>>> 3c64598f1a10ed0aa5e07c3bcaac0d8c07d0339d
 
     // Reset the environment and get the initial observation
     vector<float> obs = env.reset();

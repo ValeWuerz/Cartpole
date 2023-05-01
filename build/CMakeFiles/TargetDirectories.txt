@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/edit_cache.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/rebuild_cache.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/slow_build_up.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/deepl_actions.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/randomactions.dir
 /home/valentin/Master_Thesis/Coding/build/CMakeFiles/trying_new.dir
+=======
+/home/ddcmse06/Desktop/Master/Cartpole/build/CMakeFiles/randomactions.dir
+/home/ddcmse06/Desktop/Master/Cartpole/build/CMakeFiles/deepl_actions.dir
+/home/ddcmse06/Desktop/Master/Cartpole/build/CMakeFiles/slow_build_up.dir
+/home/ddcmse06/Desktop/Master/Cartpole/build/CMakeFiles/edit_cache.dir
+/home/ddcmse06/Desktop/Master/Cartpole/build/CMakeFiles/rebuild_cache.dir
+>>>>>>> 3c64598f1a10ed0aa5e07c3bcaac0d8c07d0339d
