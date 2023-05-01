@@ -12,7 +12,6 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.16.3/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.16.3/CMakeSystem.cmake"
   "../libtorch/share/cmake/Caffe2/Caffe2Config.cmake"
-  "../libtorch/share/cmake/Caffe2/Caffe2ConfigVersion.cmake"
   "../libtorch/share/cmake/Caffe2/Caffe2Targets-release.cmake"
   "../libtorch/share/cmake/Caffe2/Caffe2Targets.cmake"
   "../libtorch/share/cmake/Caffe2/public/mkl.cmake"

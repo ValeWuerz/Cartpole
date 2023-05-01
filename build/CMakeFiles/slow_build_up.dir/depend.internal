@@ -126,7 +126,9 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/detail/FunctionTraits.h
  ../libtorch/include/ATen/detail/HIPHooksInterface.h
  ../libtorch/include/ATen/detail/MPSHooksInterface.h
+ ../libtorch/include/ATen/detail/MTIAHooksInterface.h
  ../libtorch/include/ATen/detail/ORTHooksInterface.h
+ ../libtorch/include/ATen/detail/XPUHooksInterface.h
  ../libtorch/include/ATen/ops/_adaptive_avg_pool2d.h
  ../libtorch/include/ATen/ops/_adaptive_avg_pool2d_backward.h
  ../libtorch/include/ATen/ops/_adaptive_avg_pool2d_backward_native.h
@@ -659,9 +661,6 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/_native_batch_norm_legit_no_training_native.h
  ../libtorch/include/ATen/ops/_native_batch_norm_legit_no_training_ops.h
  ../libtorch/include/ATen/ops/_native_batch_norm_legit_ops.h
- ../libtorch/include/ATen/ops/_native_decoder_only_multi_head_attention.h
- ../libtorch/include/ATen/ops/_native_decoder_only_multi_head_attention_native.h
- ../libtorch/include/ATen/ops/_native_decoder_only_multi_head_attention_ops.h
  ../libtorch/include/ATen/ops/_native_multi_head_attention.h
  ../libtorch/include/ATen/ops/_native_multi_head_attention_native.h
  ../libtorch/include/ATen/ops/_native_multi_head_attention_ops.h
@@ -692,15 +691,15 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/_nested_tensor_from_tensor_list.h
  ../libtorch/include/ATen/ops/_nested_tensor_from_tensor_list_native.h
  ../libtorch/include/ATen/ops/_nested_tensor_from_tensor_list_ops.h
- ../libtorch/include/ATen/ops/_nested_tensor_offsets.h
- ../libtorch/include/ATen/ops/_nested_tensor_offsets_native.h
- ../libtorch/include/ATen/ops/_nested_tensor_offsets_ops.h
  ../libtorch/include/ATen/ops/_nested_tensor_size.h
  ../libtorch/include/ATen/ops/_nested_tensor_size_native.h
  ../libtorch/include/ATen/ops/_nested_tensor_size_ops.h
  ../libtorch/include/ATen/ops/_nested_tensor_softmax_with_shape.h
  ../libtorch/include/ATen/ops/_nested_tensor_softmax_with_shape_native.h
  ../libtorch/include/ATen/ops/_nested_tensor_softmax_with_shape_ops.h
+ ../libtorch/include/ATen/ops/_nested_tensor_storage_offsets.h
+ ../libtorch/include/ATen/ops/_nested_tensor_storage_offsets_native.h
+ ../libtorch/include/ATen/ops/_nested_tensor_storage_offsets_ops.h
  ../libtorch/include/ATen/ops/_nested_tensor_strides.h
  ../libtorch/include/ATen/ops/_nested_tensor_strides_native.h
  ../libtorch/include/ATen/ops/_nested_tensor_strides_ops.h
@@ -752,6 +751,9 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/_prelu_kernel_backward_ops.h
  ../libtorch/include/ATen/ops/_prelu_kernel_native.h
  ../libtorch/include/ATen/ops/_prelu_kernel_ops.h
+ ../libtorch/include/ATen/ops/_propagate_xla_data.h
+ ../libtorch/include/ATen/ops/_propagate_xla_data_native.h
+ ../libtorch/include/ATen/ops/_propagate_xla_data_ops.h
  ../libtorch/include/ATen/ops/_remove_batch_dim.h
  ../libtorch/include/ATen/ops/_remove_batch_dim_native.h
  ../libtorch/include/ATen/ops/_remove_batch_dim_ops.h
@@ -925,6 +927,9 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/_test_check_tensor.h
  ../libtorch/include/ATen/ops/_test_check_tensor_native.h
  ../libtorch/include/ATen/ops/_test_check_tensor_ops.h
+ ../libtorch/include/ATen/ops/_test_functorch_fallback.h
+ ../libtorch/include/ATen/ops/_test_functorch_fallback_native.h
+ ../libtorch/include/ATen/ops/_test_functorch_fallback_ops.h
  ../libtorch/include/ATen/ops/_test_optional_filled_intlist.h
  ../libtorch/include/ATen/ops/_test_optional_filled_intlist_native.h
  ../libtorch/include/ATen/ops/_test_optional_filled_intlist_ops.h
@@ -976,9 +981,6 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/_transform_bias_rescale_qkv.h
  ../libtorch/include/ATen/ops/_transform_bias_rescale_qkv_native.h
  ../libtorch/include/ATen/ops/_transform_bias_rescale_qkv_ops.h
- ../libtorch/include/ATen/ops/_transformer_decoder_only_layer_fwd.h
- ../libtorch/include/ATen/ops/_transformer_decoder_only_layer_fwd_native.h
- ../libtorch/include/ATen/ops/_transformer_decoder_only_layer_fwd_ops.h
  ../libtorch/include/ATen/ops/_transformer_encoder_layer_fwd.h
  ../libtorch/include/ATen/ops/_transformer_encoder_layer_fwd_native.h
  ../libtorch/include/ATen/ops/_transformer_encoder_layer_fwd_ops.h
@@ -1187,15 +1189,9 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/align_to_native.h
  ../libtorch/include/ATen/ops/align_to_ops.h
  ../libtorch/include/ATen/ops/all.h
- ../libtorch/include/ATen/ops/all_gather_into_tensor.h
- ../libtorch/include/ATen/ops/all_gather_into_tensor_native.h
- ../libtorch/include/ATen/ops/all_gather_into_tensor_ops.h
  ../libtorch/include/ATen/ops/all_meta.h
  ../libtorch/include/ATen/ops/all_native.h
  ../libtorch/include/ATen/ops/all_ops.h
- ../libtorch/include/ATen/ops/all_reduce.h
- ../libtorch/include/ATen/ops/all_reduce_native.h
- ../libtorch/include/ATen/ops/all_reduce_ops.h
  ../libtorch/include/ATen/ops/allclose.h
  ../libtorch/include/ATen/ops/allclose_native.h
  ../libtorch/include/ATen/ops/allclose_ops.h
@@ -2963,6 +2959,9 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/nonzero_numpy_native.h
  ../libtorch/include/ATen/ops/nonzero_numpy_ops.h
  ../libtorch/include/ATen/ops/nonzero_ops.h
+ ../libtorch/include/ATen/ops/nonzero_static.h
+ ../libtorch/include/ATen/ops/nonzero_static_native.h
+ ../libtorch/include/ATen/ops/nonzero_static_ops.h
  ../libtorch/include/ATen/ops/norm.h
  ../libtorch/include/ATen/ops/norm_except_dim.h
  ../libtorch/include/ATen/ops/norm_except_dim_native.h
@@ -4063,9 +4062,6 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/ATen/ops/vstack.h
  ../libtorch/include/ATen/ops/vstack_native.h
  ../libtorch/include/ATen/ops/vstack_ops.h
- ../libtorch/include/ATen/ops/wait_tensor.h
- ../libtorch/include/ATen/ops/wait_tensor_native.h
- ../libtorch/include/ATen/ops/wait_tensor_ops.h
  ../libtorch/include/ATen/ops/where.h
  ../libtorch/include/ATen/ops/where_native.h
  ../libtorch/include/ATen/ops/where_ops.h
@@ -4181,6 +4177,8 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/c10/util/TypeTraits.h
  ../libtorch/include/c10/util/UniqueVoidPtr.h
  ../libtorch/include/c10/util/accumulate.h
+ ../libtorch/include/c10/util/bit_cast.h
+ ../libtorch/include/c10/util/bits.h
  ../libtorch/include/c10/util/complex.h
  ../libtorch/include/c10/util/complex_math.h
  ../libtorch/include/c10/util/complex_utils.h
@@ -4232,6 +4230,7 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/torch/csrc/Export.h
  ../libtorch/include/torch/csrc/Generator.h
  ../libtorch/include/torch/csrc/MemoryFormat.h
+ ../libtorch/include/torch/csrc/Stream.h
  ../libtorch/include/torch/csrc/api/include/torch/all.h
  ../libtorch/include/torch/csrc/api/include/torch/arg.h
  ../libtorch/include/torch/csrc/api/include/torch/autograd.h
@@ -4278,6 +4277,7 @@ CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o
  ../libtorch/include/torch/csrc/api/include/torch/imethod.h
  ../libtorch/include/torch/csrc/api/include/torch/jit.h
  ../libtorch/include/torch/csrc/api/include/torch/linalg.h
+ ../libtorch/include/torch/csrc/api/include/torch/mps.h
  ../libtorch/include/torch/csrc/api/include/torch/nested.h
  ../libtorch/include/torch/csrc/api/include/torch/nn.h
  ../libtorch/include/torch/csrc/api/include/torch/nn/cloneable.h

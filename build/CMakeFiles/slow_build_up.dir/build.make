@@ -60,15 +60,15 @@ include CMakeFiles/slow_build_up.dir/flags.make
 CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o: CMakeFiles/slow_build_up.dir/flags.make
 CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o: ../slow_build_up.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valentin/Master_Thesis/Coding/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o -c /home/valentin/Master_Thesis/Coding/slow_build_up.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o -c /home/valentin/Master_Thesis/Coding/slow_build_up.cpp
 
 CMakeFiles/slow_build_up.dir/slow_build_up.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/slow_build_up.dir/slow_build_up.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/slow_build_up.cpp > CMakeFiles/slow_build_up.dir/slow_build_up.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/slow_build_up.cpp > CMakeFiles/slow_build_up.dir/slow_build_up.cpp.i
 
 CMakeFiles/slow_build_up.dir/slow_build_up.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/slow_build_up.dir/slow_build_up.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/slow_build_up.cpp -o CMakeFiles/slow_build_up.dir/slow_build_up.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/slow_build_up.cpp -o CMakeFiles/slow_build_up.dir/slow_build_up.cpp.s
 
 # Object files for target slow_build_up
 slow_build_up_OBJECTS = \

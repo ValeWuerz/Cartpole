@@ -60,15 +60,15 @@ include CMakeFiles/randomactions.dir/flags.make
 CMakeFiles/randomactions.dir/randomactions.cpp.o: CMakeFiles/randomactions.dir/flags.make
 CMakeFiles/randomactions.dir/randomactions.cpp.o: ../randomactions.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valentin/Master_Thesis/Coding/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/randomactions.dir/randomactions.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/randomactions.dir/randomactions.cpp.o -c /home/valentin/Master_Thesis/Coding/randomactions.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/randomactions.dir/randomactions.cpp.o -c /home/valentin/Master_Thesis/Coding/randomactions.cpp
 
 CMakeFiles/randomactions.dir/randomactions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/randomactions.dir/randomactions.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/randomactions.cpp > CMakeFiles/randomactions.dir/randomactions.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/randomactions.cpp > CMakeFiles/randomactions.dir/randomactions.cpp.i
 
 CMakeFiles/randomactions.dir/randomactions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/randomactions.dir/randomactions.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/randomactions.cpp -o CMakeFiles/randomactions.dir/randomactions.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/randomactions.cpp -o CMakeFiles/randomactions.dir/randomactions.cpp.s
 
 # Object files for target randomactions
 randomactions_OBJECTS = \
