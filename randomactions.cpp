@@ -18,7 +18,7 @@ int main() {
         cout << val << " ";
     }
 
-    
+    cout << "just for testing"
     
 
     // Reset the environment and get the initial observation
