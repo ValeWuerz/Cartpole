@@ -1,0 +1,77 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "randomactions",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "deepl_actions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deepl_actions-66d54b184874b06ef3dd.json",
+					"name" : "deepl_actions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "randomactions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-randomactions-145f282b97c6c8af54dd.json",
+					"name" : "randomactions",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "slow_build_up::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-slow_build_up-40670589e809a4a18591.json",
+					"name" : "slow_build_up",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/valentin/Master_Thesis/Coding/build",
+		"source" : "/home/valentin/Master_Thesis/Coding"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}
