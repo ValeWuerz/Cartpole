@@ -1,9 +1,3 @@
-
-
-
-
-
-
 #include <torch/torch.h>
 #include <iostream>
 #include <vector>
@@ -81,20 +75,20 @@ public:
                 // Choose action
                 int action = select_action(state, epsilon, env);
                 //std::cout << "Action: " << action << std::endl;
-            if(action==3){
+         //   if(action==3){
 
-   for (const auto& experience : replay_memory) {
-    // Extract the individual elements of the tuple
-                auto state_tensor = std::get<0>(experience);
-                auto action = std::get<1>(experience);
-                auto reward = std::get<2>(experience);
-                auto next_state_tensor = std::get<3>(experience);
-                auto done = std::get<4>(experience);
-                std::cout << state_tensor << std::endl;
-
-                    }
-                    std::cout<<"debugging"<<std::endl;
-            }
+   //for (const auto& experience : replay_memory) {
+   // // Extract the individual elements of the tuple
+   //             auto state_tensor = std::get<0>(experience);
+   //             auto action = std::get<1>(experience);
+   //             auto reward = std::get<2>(experience);
+   //             auto next_state_tensor = std::get<3>(experience);
+   //             auto done = std::get<4>(experience);
+   //             std::cout << state_tensor << std::endl;
+//
+   //                 }
+   //                 std::cout<<"debugging"<<std::endl;
+   //         }
      
                 std::vector<float> next_state;
                 float reward;
@@ -272,7 +266,7 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
         action = q_values.argmax(1).item<int>();
           if(std::isnan(first_value)){
             std::cout << state << std::endl;
-            action=3;
+            std::cout << "testing" std::endl;
         }
     }
     return action;

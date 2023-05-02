@@ -9,7 +9,7 @@ int main() {
     // Get the observation space and action space of the environment
     std::vector<float> observation_space = env.get_observation_space();
     //Tensor observation_space = env.get_observation_space();
-    std::vector<int> action_space = env.get_action_space();
+    int action_space = env.get_action_space();
 
     // Print the observation space and action space
     std::cout << "Observation space: ";
@@ -18,11 +18,11 @@ int main() {
     }
     std::cout << std::endl;
 
-    std::cout << "Action space: ";
-    for (int64_t val : action_space) {
-        std::cout << val << " ";
-    }
-    std::cout << std::endl;
+    //std::cout << "Action space: ";
+    //for (int val : action_space) {
+    //    std::cout << val << " ";
+    //}
+    //std::cout << std::endl;
 
     // Reset the environment and get the initial observation
     std::vector<float> obs = env.reset();
