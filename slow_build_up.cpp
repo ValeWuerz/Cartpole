@@ -10,7 +10,7 @@
 #include "CartpoleEnv2.h"
 #include <cstdint>
 #include <tuple>
-
+#include <fstream>
 using namespace torch;
 using namespace std;
 
@@ -88,6 +88,13 @@ public:
                 // Take action and observe next state, reward, and done
                 std::tie(next_state, reward, done) = env.step(action);
 
+                for (auto& value : next_state){
+                    if (std::isnan(value)||isinf(value)){
+                        cout << "FOUND NAN IN NEXT VALUE"<<endl;
+                        cout << next_state << endl;
+                    }
+                }
+
                   std::cout << "New observation: ";
                         for (float val : next_state) {
                             std::cout << val << " ";
@@ -99,16 +106,34 @@ public:
                 options = options.dtype(torch::kFloat32);
                 //auto [next_state, reward, done] = env.step(action);
                 torch::Tensor next_state_tensor = torch::from_blob(next_state.data(), {1, static_cast<int64_t>(next_state.size())}, options);
-
                 // Move the tensor to the device
                 next_state_tensor = next_state_tensor.to(device_);
+                //DEBUG
+                //write_tensor_to_file(next_state_tensor, "tensors.json");
+
+
                 //next_state = next_state.to(device_);
                 //Tensor reward_tensor = from_blob(&reward, {1}, TensorOptions().dtype(kFloat32)).to(device_);
 
                 // Store experience in replay memory
                 auto experience = std::make_tuple(state.clone(), action, reward, next_state_tensor, done);
                 // Print the tuple
+
+                //DEBUG
+
+
+           //                for(auto& exp:replay_memory){
+           // cout << "Tensor2.\n" << get<3>(exp)<<endl;
+           //}_>found nan or inf
                 replay_memory.push_back(experience);
+                write_experience_to_file(experience,"experience.json");
+                write_replay_buffer_to_file(replay_memory, "replay_memory.json");
+                //DEBUG
+                //for (auto& value : replay_memory) {
+                //            auto tensor = std::get<3>(value);
+                //            cout << "TENSOR:  "<<endl;
+                //            cout << tensor <<endl;
+                //}
                 if (replay_memory.size() > replay_memory_size) {
                     //assures that the replay_memory is only of the size of the replay_memory size
                     replay_memory.pop_front();
@@ -118,17 +143,22 @@ public:
                 episode_reward += reward;
                 episode_steps++;
 
-                if (replay_memory.size() > replay_memory_size) {
-                    //assures that the replay_memory is only of the size of the replay_memory size
-                    replay_memory.pop_front();
-                }
-
                 // Update episode statistics
                 episode_reward += reward;
                 episode_steps++;
+               
                 // Update Q-network
-           
+           //DEBUG
                 if (replay_memory.size() >= batch_size) {
+                        for (auto& value : replay_memory) {
+                            auto tensor = std::get<3>(value);
+                            if (torch::isnan(tensor).any().item<bool>()|| torch::isinf(tensor).any().item<bool>()) {
+                    std::cout << "Found a nan or inf value!" << std::endl;
+                    cout<< tensor << endl;
+                    cout<<"finished"<<endl;
+
+        }
+    }
                     update_q_network(gamma, batch_size, replay_memory);
                 }
                 // Update target Q-network
@@ -191,12 +221,16 @@ public:
         next_state_batch.push_back(std::get<3>(experience));
         done_batch.push_back(std::get<4>(experience));
     }
-
+    cout << "NEXT STATE Batch:  "<< endl;
+    cout << next_state_batch<< endl;
     // Convert batch tensors to a single tensor for each batch
     auto state_tensor = torch::cat(state_batch, 0);
     auto action_tensor = torch::from_blob(action_batch.data(), {batch_size, 1}, torch::kInt).to(device_);
     auto reward_tensor = torch::from_blob(reward_batch.data(), {batch_size, 1}, torch::kFloat32).to(device_);
+    //cat for concatenating several sequential batches
     auto next_state_tensor = torch::cat(next_state_batch, 0);
+    cout << "NEXT STATE TENSOR:  "<< endl;
+    cout << next_state_tensor<< endl;
     //auto testing =torch::from_blob(action_batch.data(), {batch_size, 1}, torch::kInt);
     auto done_tensor = torch::from_blob(done_batch.data(), {batch_size, 1}, torch::kInt).to(device_);
 //    auto done_tensor = torch::from_blob(done_batch.data(), {batch_size, 1}, torch::kBool);
@@ -211,33 +245,25 @@ public:
     //gather function selects Q_value corresponding to the action taken in the current state
     auto q_values = q_network->forward(state_tensor).gather(1,action_tensor_int64);
     auto next_q_values=target_network->forward(next_state_tensor).gather(1,action_tensor_int64);
+    cout << "NEXT Q VALUES:  " << endl;
+    cout << next_q_values << endl;
     //bellman equation
     //torch::Tensor target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
     auto target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1).squeeze(1) * (1 - done_tensor);
     // Compute loss and backpropagate
     //detach target_q_values because we only want to update the weights of the q_network in the following backpropagation
     //warning when q_values and target_q_values are not of same shape
+    //loss will be one scalar value (1,)
     auto loss = torch::mse_loss(q_values, target_q_values.detach());
+    cout << "LOSS: "<< endl;
+    cout << loss << endl;
     //auto loss = torch::mse_loss(q_values.gather(1, action_tensor_int64.unsqueeze(1)).squeeze(1), target_q_values.detach());
     //torch::Tensor gradients_2=q_network->parameters()[1].grad();
     //torch::Tensor gradients_3=q_network->parameters()[2].grad();
  
-           float first_value=q_values[0][0].item<float>();
-          if(std::isnan(first_value)){
-            std::cout << "Q_Values:   " << std::endl;
-            std::cout << q_values << std::endl;            
-        }
     optimizer->zero_grad();
     loss.backward();
-    //std::cout << "Weights after loss.back:   " << std::endl;
-    //auto weight2 = q_network->parameters()[0];
-    //cout << weight2 << endl;
-    std::cout << "Gradients after loss.back:   " << std::endl;
-    torch::Tensor gradients_loss=q_network->parameters()[0].grad();
-    cout << gradients_loss << endl;
     optimizer->step();
-    torch::Tensor gradients_backed=q_network->parameters()[0].grad();
-    cout << gradients_backed << endl;
 
     float second_value=q_values[0][0].item<float>();
     auto new_q_values = q_network->forward(state_tensor);
@@ -261,8 +287,25 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
         epsilon_ = std::max(epsilon_, epsilon_end_);
     }
     }
+void write_replay_buffer_to_file(std::deque<std::tuple<at::Tensor, int, float, at::Tensor, int>> replay_buffer, std::string filename) {
+    std::ofstream outfile(filename);
+    for (auto& experience : replay_buffer) {
+        outfile << std::get<0>(experience) << "," << std::get<1>(experience) << "," << std::get<2>(experience) << "," << std::get<3>(experience) << "," << std::get<4>(experience) << std::endl;
+    }
+    outfile.close();
+}
     //int  select_action(torch::Tensor state, float epsilon, CartPoleEnv env);
-
+void write_tensor_to_file(at::Tensor tensor, std::string filename) {
+    std::ofstream outfile(filename, std::ios_base::app);
+    outfile << tensor << std::endl;
+    outfile.close();
+}
+    
+void write_experience_to_file(std::tuple<at::Tensor, int, float, at::Tensor, int> experience, std::string filename) {
+    std::ofstream outfile(filename, std::ios_base::app);
+    outfile << std::get<0>(experience) << "," << std::get<1>(experience) << "," << std::get<2>(experience) << "," << std::get<3>(experience) << "," << std::get<4>(experience) << std::endl;
+    outfile.close();
+}
     private:
         int state_size_;
         int action_size_;
@@ -302,8 +345,6 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
             std::cout << "Q_Values:   " << std::endl;
             std::cout << q_values << std::endl;            
         }
-    std::cout << "Q_Values:   " << std::endl;
-    std::cout << q_values << std::endl;
       
         // Select the action with the highest Q-value
       //      cout << q_network ->parameters()[0].grad() << endl;

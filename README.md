@@ -17,3 +17,11 @@ the q_values are nan after some time beeing normal!
 Before q_values are calculated, some gradients are nan => why? => check other parameters than state for anomalies
 => weights are -nan first => maybe numerical instability
 =>Gradients after loss.backwards() function have nan first => propagates through weights
+=>loss seems to be nan before that
+=> target_q_values has nan value => reason for loss value of nan
+=> mutliple nan in next_q_values => reason for nan in target_q_value
+=> Infinte value in next_state_tensor => leads to nan in next_q_value
+=> problem in next state batch, likely far to high values here compared to state batch
+=>problem was located in replay buffer, error value can either be inf or nan
+=> I suspect error in set() function so probably in environment
+apparently the replay_memory.push_back(experience) function alters the next_state in experience significantly -> no idea why
