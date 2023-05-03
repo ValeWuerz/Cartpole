@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o"
-  "CMakeFiles/slow_build_up.dir/slow_build_up.cpp.o.d"
   "slow_build_up"
   "slow_build_up.pdb"
 )

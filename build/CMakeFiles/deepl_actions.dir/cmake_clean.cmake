@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
   "CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o"
-  "CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o.d"
   "deepl_actions"
   "deepl_actions.pdb"
 )

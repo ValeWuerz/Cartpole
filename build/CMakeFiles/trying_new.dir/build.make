@@ -60,15 +60,15 @@ include CMakeFiles/trying_new.dir/flags.make
 CMakeFiles/trying_new.dir/trying_new.cpp.o: CMakeFiles/trying_new.dir/flags.make
 CMakeFiles/trying_new.dir/trying_new.cpp.o: ../trying_new.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valentin/Master_Thesis/Coding/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/trying_new.dir/trying_new.cpp.o"
-	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/trying_new.dir/trying_new.cpp.o -c /home/valentin/Master_Thesis/Coding/trying_new.cpp
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/trying_new.dir/trying_new.cpp.o -c /home/valentin/Master_Thesis/Coding/trying_new.cpp
 
 CMakeFiles/trying_new.dir/trying_new.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/trying_new.dir/trying_new.cpp.i"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/trying_new.cpp > CMakeFiles/trying_new.dir/trying_new.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/trying_new.cpp > CMakeFiles/trying_new.dir/trying_new.cpp.i
 
 CMakeFiles/trying_new.dir/trying_new.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/trying_new.dir/trying_new.cpp.s"
-	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/trying_new.cpp -o CMakeFiles/trying_new.dir/trying_new.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/trying_new.cpp -o CMakeFiles/trying_new.dir/trying_new.cpp.s
 
 # Object files for target trying_new
 trying_new_OBJECTS = \
