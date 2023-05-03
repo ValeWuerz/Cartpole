@@ -60,15 +60,15 @@ include CMakeFiles/deepl_actions.dir/flags.make
 CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o: CMakeFiles/deepl_actions.dir/flags.make
 CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o: ../deepl_actions.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/valentin/Master_Thesis/Coding/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o -c /home/valentin/Master_Thesis/Coding/deepl_actions.cpp
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/deepl_actions.dir/deepl_actions.cpp.o -c /home/valentin/Master_Thesis/Coding/deepl_actions.cpp
 
 CMakeFiles/deepl_actions.dir/deepl_actions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/deepl_actions.dir/deepl_actions.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/deepl_actions.cpp > CMakeFiles/deepl_actions.dir/deepl_actions.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/valentin/Master_Thesis/Coding/deepl_actions.cpp > CMakeFiles/deepl_actions.dir/deepl_actions.cpp.i
 
 CMakeFiles/deepl_actions.dir/deepl_actions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/deepl_actions.dir/deepl_actions.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/deepl_actions.cpp -o CMakeFiles/deepl_actions.dir/deepl_actions.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/valentin/Master_Thesis/Coding/deepl_actions.cpp -o CMakeFiles/deepl_actions.dir/deepl_actions.cpp.s
 
 # Object files for target deepl_actions
 deepl_actions_OBJECTS = \

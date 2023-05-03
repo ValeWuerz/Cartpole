@@ -25,14 +25,18 @@ public:
     //after : class vars are being filled either with input or with other values like "cpu"
         : state_size_(state_size), action_size_(action_size), hidden_size_(hidden_size), 
         learning_rate_(learning_rate), device_("cpu"),  
+
+        //output = input * weight + bias
+        //Kaiming initialization as weight initialization -> supposed to work well with RELU acitvation function
+        //The Kaiming initialization sets the weights of the linear layer to random values drawn from a normal distribution 
+        //with mean 0 and standard deviation sqrt(2 / fan_in), 
+        //where fan_in is the number of input features to the layer. The bias terms are initialized to zero
         q_network(nn::Sequential(
             nn::Linear(nn::LinearOptions(state_size, hidden_size).bias(false)),
             nn::Functional(torch::relu),
-            nn::Linear(nn::LinearOptions(hidden_size, 128).bias(false)),
+            nn::Linear(nn::LinearOptions(hidden_size, 16).bias(false)),
             nn::Functional(torch::relu),
-            nn::Linear(nn::LinearOptions(128, 64).bias(false)),
-            nn::Functional(torch::relu),
-            nn::Linear(nn::LinearOptions(64, action_size).bias(false))
+            nn::Linear(nn::LinearOptions(16, action_size).bias(false))
         ))//, target_network(q_network)
         
         {
@@ -172,9 +176,10 @@ public:
         int action;
         float reward;
         int done;
-        torch::Tensor state_;
-        std::tie(state_, action, reward,next_state, done)=experience;
-        cout << state_ << endl;
+        //to debug replay buffer
+        //torch::Tensor state_;
+        //std::tie(state_, action, reward,next_state, done)=experience;
+        //cout << state_ << endl;
         //print replay memory
      
 
@@ -203,8 +208,8 @@ public:
     //auto next_q_values = torch::zeros_like(q_values);
     //next_q_values =std::get<0>(target_network->forward(next_state_tensor).max(1)).detach();
     auto action_tensor_int64 = action_tensor.to(torch::kLong);
+    //gather function selects Q_value corresponding to the action taken in the current state
     auto q_values = q_network->forward(state_tensor).gather(1,action_tensor_int64);
-    cout << target_network << endl;
     auto next_q_values=target_network->forward(next_state_tensor).gather(1,action_tensor_int64);
     //bellman equation
     //torch::Tensor target_q_values = reward_tensor + gamma * next_q_values.unsqueeze(1) * (1 - done_tensor);
@@ -213,17 +218,38 @@ public:
     //detach target_q_values because we only want to update the weights of the q_network in the following backpropagation
     //warning when q_values and target_q_values are not of same shape
     auto loss = torch::mse_loss(q_values, target_q_values.detach());
-    cout << q_values.sizes() << endl;
-    cout << target_q_values.sizes() << endl;
     //auto loss = torch::mse_loss(q_values.gather(1, action_tensor_int64.unsqueeze(1)).squeeze(1), target_q_values.detach());
-    
+    //torch::Tensor gradients_2=q_network->parameters()[1].grad();
+    //torch::Tensor gradients_3=q_network->parameters()[2].grad();
+ 
+           float first_value=q_values[0][0].item<float>();
+          if(std::isnan(first_value)){
+            std::cout << "Q_Values:   " << std::endl;
+            std::cout << q_values << std::endl;            
+        }
     optimizer->zero_grad();
     loss.backward();
+    //std::cout << "Weights after loss.back:   " << std::endl;
+    //auto weight2 = q_network->parameters()[0];
+    //cout << weight2 << endl;
+    std::cout << "Gradients after loss.back:   " << std::endl;
+    torch::Tensor gradients_loss=q_network->parameters()[0].grad();
+    cout << gradients_loss << endl;
     optimizer->step();
-    
-    torch::Tensor gradients_1=q_network->parameters()[0].grad();
-    cout << gradients_1 << endl;
+    torch::Tensor gradients_backed=q_network->parameters()[0].grad();
+    cout << gradients_backed << endl;
+
+    float second_value=q_values[0][0].item<float>();
+    auto new_q_values = q_network->forward(state_tensor);
+
+          if(std::isnan(second_value)){
+            std::cout << "Q_Values:   " << std::endl;
+            std::cout << q_values << std::endl;            
+        }
 }
+
+
+
  void update_target_network() {
     std::shared_ptr<torch::nn::Sequential> q_net_copy = std::make_shared<torch::nn::Sequential>(q_network);
 
@@ -270,18 +296,20 @@ void decay_epsilon(float epsilon_, float epsilon_decay_, float epsilon_end_) {
     } else {
 
     Tensor q_values = q_network->forward(state);
+    float first_value=q_values[0][0].item<float>();
+
+        if(std::isnan(first_value)){
+            std::cout << "Q_Values:   " << std::endl;
+            std::cout << q_values << std::endl;            
+        }
     std::cout << "Q_Values:   " << std::endl;
     std::cout << q_values << std::endl;
-        float first_value=q_values[0][0].item<float>();
       
         // Select the action with the highest Q-value
       //      cout << q_network ->parameters()[0].grad() << endl;
           action = q_values.argmax(1).item<int>();
         
-          if(std::isnan(first_value)){
-            std::cout << state << std::endl;
-            
-        }
+
     }
     return action;
  }
@@ -292,8 +320,8 @@ int main(){
 //  
     int state_size = env.get_state().size();
     int action_size = env.get_action_space();
-    float hidden_size= 16;
-    float learning_rate= 0.0001;
+    float hidden_size= 8;
+    float learning_rate= 0.01;
     int num_episodes=500;
     int max_steps=200;
     ////importance of future rewards => closer o 1: agent will consider future rewards more important than immediate rewards 

@@ -65,7 +65,12 @@
         "typeindex": "cpp",
         "typeinfo": "cpp",
         "valarray": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "strstream": "cpp",
+        "cfenv": "cpp",
+        "source_location": "cpp",
+        "hash_map": "cpp",
+        "future": "cpp"
     },
     "cmake.sourceDirectory": "/home/valentin/Master_Thesis/Coding"
 }
