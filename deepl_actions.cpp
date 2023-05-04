@@ -207,26 +207,27 @@ void update_q_network(float gamma, int batch_size, std::deque<std::tuple<Tensor,
 }
 
 };
- int DQNAgent::select_action(Tensor state, float epsilon, CartPoleEnv env ) {
-    Tensor q_values = q_network->forward(state);
-    int action;
-    //epsilon is the probability to explore the action space instead of exploit by generating a random value of 0 or 1
-    //and comparing it to epsilon, if this is false then we go over to exploitation
-    if (torch::rand({1}).item<float>() < epsilon) {
-        // Sample a random index from the action space
-        std::random_device rd;
-        std::mt19937 gen(rd());
-        std::uniform_int_distribution<> dist(0, env.get_action_space() - 1);
-        int index = dist(gen);
-
-        // Select the action corresponding to the sampled index
-        action = env.get_action_space();
-    } else {
-        // Select the action with the highest Q-value
-        action = q_values.argmax(1).item<int>();
-    }
-    return action;
- }
+ //int DQNAgent::select_action(Tensor state, float epsilon, CartPoleEnv env ) {
+ //   Tensor q_values = q_network->forward(state);
+ //   int action;
+ //   //epsilon is the probability to explore the action space instead of exploit by generating a random value of 0 or 1
+ //   //and comparing it to epsilon, if this is false then we go over to exploitation
+ //   if (torch::rand({1}).item<float>() < epsilon) {
+ //       // Sample a random index from the action space
+ //       std::random_device rd;
+ //       std::mt19937 gen(rd());
+ //       std::uniform_int_distribution<> dist(0, env.get_action_space() - 1);
+ //       int index = dist(gen);
+ //       cout << "EPSILON: " << endl;
+ //       cout << epsilon << endl;
+ //       // Select the action corresponding to the sampled index
+ //       action = env.get_action_space();
+ //   } else {
+ //       // Select the action with the highest Q-value
+ //       action = q_values.argmax(1).item<int>();
+ //   }
+ //   return action;
+ //}
 
 
 int main(){

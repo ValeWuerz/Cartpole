@@ -1,0 +1,6279 @@
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.5274  0.0239  0.4009
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.5274  0.0239  0.4009
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0457 -0.7033  0.0347  0.5364
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0457 -0.7033  0.0347  0.5364
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0563 -0.5282  0.0429  0.4102
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0563 -0.5282  0.0429  0.4102
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -0.7044  0.0538  0.5485
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -0.7044  0.0538  0.5485
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0880 -0.8807  0.0676  0.6885
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0880 -0.8807  0.0676  0.6885
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1091 -1.0571  0.0842  0.8304
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1091 -1.0571  0.0842  0.8304
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1338 -1.2337  0.1037  0.9748
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1338 -1.2337  0.1037  0.9748
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1620 -1.4105  0.1261  1.1219
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1620 -1.4105  0.1261  1.1219
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1937 -1.5874  0.1516  1.2720
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1937 -1.5874  0.1516  1.2720
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2290 -1.7644  0.1801  1.4254
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2290 -1.7644  0.1801  1.4254
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2678 -1.9414  0.2117  1.5823
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2252 -1.5873  0.1744  1.2762
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2252 -1.5873  0.1744  1.2762
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2605 -1.7644  0.2031  1.4325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2605 -1.7644  0.2031  1.4325
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: -1
+NEXT STATE: -0.2924 -1.5914  0.2298  1.3350
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: -1
+NEXT STATE: -0.2711 -1.7649  0.2117  1.4401
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0457 -0.5276  0.0345  0.4035
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0457 -0.5276  0.0345  0.4035
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0527 -0.3525  0.0401  0.2773
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.3525  0.0401  0.2773
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0633 -0.5286  0.0484  0.4152
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0633 -0.5286  0.0484  0.4152
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0774 -0.7049  0.0595  0.5543
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0774 -0.7049  0.0595  0.5543
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0950 -0.8813  0.0734  0.6951
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0950 -0.8813  0.0734  0.6951
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1162 -1.0578  0.0901  0.8379
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1162 -1.0578  0.0901  0.8379
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1409 -1.2344  0.1098  0.9831
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1409 -1.2344  0.1098  0.9831
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1691 -1.4113  0.1324  1.1311
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1691 -1.4113  0.1324  1.1311
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2009 -1.5882  0.1581  1.2820
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2009 -1.5882  0.1581  1.2820
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2362 -1.7652  0.1868  1.4362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2362 -1.7652  0.1868  1.4362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2750 -1.9422  0.2187  1.5940
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0774 -0.5288  0.0590  0.4179
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0774 -0.5288  0.0590  0.4179
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0915 -0.7052  0.0702  0.5586
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0915 -0.7052  0.0702  0.5586
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1091 -0.8817  0.0842  0.7010
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1091 -0.8817  0.0842  0.7010
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1232 -0.7073  0.0958  0.5830
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1232 -0.7073  0.0958  0.5830
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1339 -0.5331  0.1052  0.4670
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1339 -0.5331  0.1052  0.4670
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1481 -0.7101  0.1175  0.6144
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1481 -0.7101  0.1175  0.6144
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1659 -0.8871  0.1327  0.7635
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1659 -0.8871  0.1327  0.7635
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1871 -1.0642  0.1510  0.9146
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1871 -1.0642  0.1510  0.9146
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2120 -1.2414  0.1724  1.0681
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2120 -1.2414  0.1724  1.0681
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2403 -1.4187  0.1969  1.2243
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2403 -1.4187  0.1969  1.2243
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2723 -1.5960  0.2245  1.3835
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0246 -0.1761  0.0187  0.1376
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.1761  0.0187  0.1376
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.3520  0.0241  0.2722
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.3520  0.0241  0.2722
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0422 -0.5280  0.0323  0.4076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0422 -0.5280  0.0323  0.4076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0563 -0.7040  0.0431  0.5444
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0563 -0.7040  0.0431  0.5444
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0739 -0.8802  0.0568  0.6827
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0739 -0.8802  0.0568  0.6827
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0950 -1.0565  0.0733  0.8231
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0950 -1.0565  0.0733  0.8231
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1197 -1.2330  0.0926  0.9659
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1197 -1.2330  0.0926  0.9659
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1479 -1.4097  0.1148  1.1114
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1479 -1.4097  0.1148  1.1114
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1796 -1.5865  0.1400  1.2599
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1796 -1.5865  0.1400  1.2599
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2149 -1.7634  0.1682  1.4118
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2149 -1.7634  0.1682  1.4118
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2537 -1.9403  0.1996  1.5673
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2537 -1.9403  0.1996  1.5673
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2960 -2.1173  0.2341  1.7265
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2781 -2.1153  0.2169  1.6985
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1513 -1.2333  0.1160  0.9718
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1513 -1.2333  0.1160  0.9718
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1724 -1.0593  0.1332  0.8592
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1724 -1.0593  0.1332  0.8592
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1972 -1.2364  0.1534  1.0104
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1972 -1.2364  0.1534  1.0104
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2254 -1.4136  0.1767  1.1642
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2254 -1.4136  0.1767  1.1642
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2573 -1.5908  0.2031  1.3208
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2573 -1.5908  0.2031  1.3208
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2926 -1.7680  0.2327  1.4807
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2923 -1.9415  0.2295  1.5893
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0914 -0.8801  0.0695  0.6819
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0914 -0.8801  0.0695  0.6819
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1125 -1.0565  0.0860  0.8242
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1125 -1.0565  0.0860  0.8242
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1372 -1.2332  0.1054  0.9688
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1372 -1.2332  0.1054  0.9688
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1654 -1.4099  0.1277  1.1161
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1654 -1.4099  0.1277  1.1161
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1971 -1.5868  0.1530  1.2664
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1971 -1.5868  0.1530  1.2664
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2324 -1.7638  0.1814  1.4200
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2324 -1.7638  0.1814  1.4200
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2712 -1.9409  0.2130  1.5771
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1477 -1.2330  0.1129  0.9675
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1477 -1.2330  0.1129  0.9675
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1759 -1.4098  0.1352  1.1159
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1759 -1.4098  0.1352  1.1159
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2076 -1.5868  0.1605  1.2672
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2076 -1.5868  0.1605  1.2672
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2429 -1.7638  0.1890  1.4218
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2429 -1.7638  0.1890  1.4218
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2817 -1.9409  0.2206  1.5798
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.3064 -1.9416  0.2402  1.5948
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2430 -1.5891  0.1902  1.2990
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2430 -1.5891  0.1902  1.2990
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: -1
+NEXT STATE: -0.2713 -1.4160  0.2142  1.1993
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2500 -1.9396  0.1954  1.5584
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2500 -1.9396  0.1954  1.5584
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2924 -2.1165  0.2298  1.7171
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1900 -1.4106  0.1469  1.1268
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1900 -1.4106  0.1469  1.1268
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2218 -1.5877  0.1724  1.2796
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2218 -1.5877  0.1724  1.2796
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2571 -1.7648  0.2012  1.4357
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2571 -1.7648  0.2012  1.4357
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: -1
+NEXT STATE: -0.2889 -1.5917  0.2279  1.3379
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1584 -1.4097  0.1223  1.1128
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1584 -1.4097  0.1223  1.1128
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1901 -1.5866  0.1475  1.2624
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1901 -1.5866  0.1475  1.2624
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2254 -1.7635  0.1758  1.4153
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2254 -1.7635  0.1758  1.4153
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2642 -1.9405  0.2073  1.5717
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2642 -1.9405  0.2073  1.5717
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.3065 -2.1175  0.2419  1.7318
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0281 -0.3516  0.0212  0.2676
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.5275  0.0293  0.4026
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.7035  0.0400  0.5389
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -0.8796  0.0536  0.6767
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0914 -1.0559  0.0699  0.8166
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1161 -1.2324  0.0891  0.9589
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1443 -1.4090  0.1112  1.1039
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1760 -1.5858  0.1362  1.2520
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2112 -1.7627  0.1643  1.4034
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2500 -1.9396  0.1954  1.5584
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2500 -1.9396  0.1954  1.5584
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2924 -2.1165  0.2298  1.7171
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2781 -2.1153  0.2169  1.6985
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.3064 -1.9416  0.2402  1.5948
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2112 -1.2366  0.1639  1.0142
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2112 -1.2366  0.1639  1.0142
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2395 -1.4138  0.1873  1.1693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2395 -1.4138  0.1873  1.1693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2713 -1.5911  0.2139  1.3273
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0457 -0.5276  0.0345  0.4035
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0457 -0.5276  0.0345  0.4035
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0598 -0.7036  0.0453  0.5405
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0598 -0.7036  0.0453  0.5405
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0774 -0.8799  0.0589  0.6792
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0774 -0.8799  0.0589  0.6792
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0985 -1.0562  0.0753  0.8199
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0985 -1.0562  0.0753  0.8199
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1231 -1.2327  0.0946  0.9630
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1231 -1.2327  0.0946  0.9630
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1513 -1.4094  0.1168  1.1088
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1513 -1.4094  0.1168  1.1088
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1760 -1.2353  0.1367  0.9962
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1760 -1.2353  0.1367  0.9962
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2043 -1.4124  0.1596  1.1478
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2043 -1.4124  0.1596  1.1478
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2291 -1.2389  0.1805  1.0428
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2291 -1.2389  0.1805  1.0428
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2574 -1.4163  0.2045  1.2000
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2574 -1.4163  0.2045  1.2000
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2893 -1.5936  0.2317  1.3601
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1196 -1.0566  0.0913  0.8252
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1196 -1.0566  0.0913  0.8252
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1442 -1.2333  0.1107  0.9706
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1442 -1.2333  0.1107  0.9706
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1724 -1.4101  0.1331  1.1187
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1724 -1.4101  0.1331  1.1187
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2042 -1.5870  0.1585  1.2697
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2042 -1.5870  0.1585  1.2697
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2395 -1.7641  0.1870  1.4240
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2395 -1.7641  0.1870  1.4240
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2783 -1.9411  0.2186  1.5818
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1971 -1.7615  0.1521  1.3879
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2358 -1.9384  0.1829  1.5413
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2781 -2.1153  0.2169  1.6985
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1547 -1.5840  0.1181  1.2296
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1547 -1.5840  0.1181  1.2296
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1899 -1.7607  0.1457  1.3786
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1899 -1.7607  0.1457  1.3786
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2287 -1.9376  0.1763  1.5312
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2287 -1.9376  0.1763  1.5312
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2710 -2.1145  0.2101  1.6876
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  0.0035  0.1756 -0.0026 -0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+ 3.5130  0.0378 -2.6425 -0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State:  2.2706e-06 -1.7553e-01 -2.4989e-05  1.3087e-01
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.3511  0.0052  0.2626
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0176 -0.5268  0.0131  0.3951
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.7026  0.0237  0.5289
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0492 -0.8785  0.0370  0.6643
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -1.0546  0.0530  0.8017
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0949 -1.2309  0.0719  0.9415
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1230 -1.4074  0.0935  1.0840
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1547 -1.5840  0.1181  1.2296
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1547 -1.5840  0.1181  1.2296
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1899 -1.7607  0.1457  1.3786
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1899 -1.7607  0.1457  1.3786
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2287 -1.9376  0.1763  1.5312
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2287 -1.9376  0.1763  1.5312
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2710 -2.1145  0.2101  1.6876
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2923 -1.9415  0.2295  1.5893
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.5274  0.0239  0.4009
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.5274  0.0239  0.4009
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0457 -0.7033  0.0347  0.5364
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0457 -0.7033  0.0347  0.5364
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0633 -0.8794  0.0481  0.6734
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0633 -0.8794  0.0481  0.6734
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0844 -1.0556  0.0644  0.8125
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0844 -1.0556  0.0644  0.8125
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1090 -1.2320  0.0835  0.9540
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1090 -1.2320  0.0835  0.9540
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1372 -1.4085  0.1054  1.0982
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1372 -1.4085  0.1054  1.0982
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1689 -1.5853  0.1303  1.2455
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1689 -1.5853  0.1303  1.2455
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2042 -1.7621  0.1583  1.3961
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2042 -1.7621  0.1583  1.3961
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2429 -1.9390  0.1893  1.5503
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2429 -1.9390  0.1893  1.5503
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2853 -2.1160  0.2234  1.7083
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2465 -1.4139  0.1926  1.1710
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2465 -1.4139  0.1926  1.1710
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2783 -1.5912  0.2192  1.3297
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0773 -1.0552  0.0588  0.8076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -1.2315  0.0777  0.9482
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1301 -1.4080  0.0996  1.0916
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1618 -1.5847  0.1243  1.2381
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1900 -1.4106  0.1469  1.1268
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1900 -1.4106  0.1469  1.1268
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2148 -1.2370  0.1672  1.0195
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2148 -1.2370  0.1672  1.0195
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2431 -1.4143  0.1907  1.1750
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2431 -1.4143  0.1907  1.1750
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2749 -1.5916  0.2174  1.3335
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2923 -1.9415  0.2295  1.5893
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1513 -1.0587  0.1170  0.8509
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1513 -1.0587  0.1170  0.8509
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1761 -1.2357  0.1370  0.9999
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1761 -1.2357  0.1370  0.9999
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2043 -1.4127  0.1601  1.1515
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2043 -1.4127  0.1601  1.1515
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2361 -1.5898  0.1862  1.3060
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2361 -1.5898  0.1862  1.3060
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2714 -1.7670  0.2155  1.4638
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0668 -0.7037  0.0506  0.5414
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0844 -0.8800  0.0642  0.6809
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1055 -1.0564  0.0807  0.8224
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1302 -1.2330  0.1000  0.9662
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1584 -1.4097  0.1223  1.1128
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1584 -1.4097  0.1223  1.1128
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1901 -1.5866  0.1475  1.2624
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1901 -1.5866  0.1475  1.2624
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2254 -1.7635  0.1758  1.4153
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2254 -1.7635  0.1758  1.4153
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2572 -1.5901  0.2021  1.3129
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2572 -1.5901  0.2021  1.3129
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2925 -1.7673  0.2315  1.4726
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2675 -1.7645  0.2083  1.4345
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.3064 -1.9416  0.2402  1.5948
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.1758  0.0106  0.1334
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.3515  0.0159  0.2667
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0246 -0.1761  0.0187  0.1376
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.1761  0.0187  0.1376
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0316 -0.3520  0.0241  0.2722
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0316 -0.3520  0.0241  0.2722
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0422 -0.5280  0.0323  0.4076
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0422 -0.5280  0.0323  0.4076
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0563 -0.7040  0.0431  0.5444
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0563 -0.7040  0.0431  0.5444
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0739 -0.8802  0.0568  0.6827
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0739 -0.8802  0.0568  0.6827
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0950 -1.0565  0.0733  0.8231
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0950 -1.0565  0.0733  0.8231
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1197 -1.2330  0.0926  0.9659
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1197 -1.2330  0.0926  0.9659
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1479 -1.4097  0.1148  1.1114
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1479 -1.4097  0.1148  1.1114
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1796 -1.5865  0.1400  1.2599
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1796 -1.5865  0.1400  1.2599
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2149 -1.7634  0.1682  1.4118
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2149 -1.7634  0.1682  1.4118
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2537 -1.9403  0.1996  1.5673
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2537 -1.9403  0.1996  1.5673
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2960 -2.1173  0.2341  1.7265
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: 0.001 *
+-3.5130 -0.0378  2.6425  0.4160
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0070 -0.1757  0.0053  0.1325
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0141 -0.3514  0.0106  0.2651
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0246 -0.5271  0.0186  0.3984
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0387 -0.7030  0.0292  0.5331
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0562 -0.8790  0.0426  0.6693
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.0703 -0.7040  0.0535  0.5444
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0703 -0.7040  0.0535  0.5444
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0879 -0.8803  0.0672  0.6843
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0879 -0.8803  0.0672  0.6843
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1020 -0.7056  0.0785  0.5635
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1020 -0.7056  0.0785  0.5635
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1197 -0.8822  0.0926  0.7071
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1197 -0.8822  0.0926  0.7071
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1409 -1.0590  0.1096  0.8526
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1409 -1.0590  0.1096  0.8526
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1656 -1.2358  0.1297  1.0006
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1656 -1.2358  0.1297  1.0006
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1938 -1.4128  0.1527  1.1512
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1938 -1.4128  0.1527  1.1512
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.2186 -1.2393  0.1736  1.0449
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2186 -1.2393  0.1736  1.0449
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2469 -1.4165  0.1976  1.2013
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2469 -1.4165  0.1976  1.2013
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2788 -1.5939  0.2248  1.3605
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1935 -1.7611  0.1489  1.3832
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2323 -1.9380  0.1796  1.5362
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2745 -2.1149  0.2135  1.6930
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0211 -0.5270  0.0158  0.3968
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0351 -0.7028  0.0265  0.5310
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0527 -0.8788  0.0398  0.6668
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0738 -1.0549  0.0559  0.8046
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0984 -1.2312  0.0748  0.9448
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1266 -1.4077  0.0965  1.0878
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1583 -1.5843  0.1212  1.2339
+[ CPUFloatType{1,4} ]
+Action: 1
+FLOAT: 1
+NEXT STATE: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.1865 -1.4103  0.1437  1.1220
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2182 -1.5873  0.1692  1.2745
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.2535 -1.7644  0.1978  1.4302
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: -1
+NEXT STATE: -0.2923 -1.9415  0.2295  1.5893
+[ CPUFloatType{1,4} ]
+Last INT: 1
+[State:  0  0  0  0
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0035 -0.1756  0.0026  0.1317
+[ CPUFloatType{1,4} ]
+Action: 0
+FLOAT: 1
+NEXT STATE: -0.0105 -0.3513  0.0079  0.2638
+[ CPUFloatType{1,4} ]
+Last INT: 0
+[State: -0.0105 -0.3513  0.0079  0.2638

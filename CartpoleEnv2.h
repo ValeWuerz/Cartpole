@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 using namespace torch;
-
+using namespace std;
 #define M_PI 3.14159265358979323846
 
 class CartPoleEnv {
@@ -83,6 +83,12 @@ std::tuple<std::vector<float>, float, int> CartPoleEnv::step(float action) {
     if (std::abs(m_state[0]) > m_x_threshold || std::abs(m_state[2]) > m_theta_threshold_radians) {
         m_done = 1;
         m_reward = -1.0;
+        if(m_state[0]>m_x_threshold){
+            cout << "Cartposition to far!"<< endl;
+        }
+        else{
+            cout << "Pole fell!"<< endl;
+        }
     } else {
         
         m_reward = 1.0;

@@ -25,3 +25,9 @@ Before q_values are calculated, some gradients are nan => why? => check other pa
 =>problem was located in replay buffer, error value can either be inf or nan
 => I suspect error in set() function so probably in environment
 apparently the replay_memory.push_back(experience) function alters the next_state in experience significantly -> no idea why
+=> it was next_state that would not do a deep copy but a reference
+=> error solved!
+=> next problem: model doesnt get better over time -> adjust parameters and reward function
+=> maybe look at if the cart or the falling pole is the problem
+=> visualisieren des problems
+=> try probkem with simple q-learning ->bookmarks
